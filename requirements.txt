@@ -1,0 +1,6 @@
+cs50==7.0.2
+Flask==2.0.1
+Flask_Session==0.4.0
+requests==2.26.0
+Werkzeug==2.0.1
+guniorn
