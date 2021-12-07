@@ -1,6 +1,7 @@
 # stocks-and-finance
 
-![finance](https://user-images.githubusercontent.com/45573073/72932217-15ba0280-3d3e-11ea-81e5-5b77ad9f86d2.png)
+<!-- ![finance](https://user-images.githubusercontent.com/45573073/72932217-15ba0280-3d3e-11ea-81e5-5b77ad9f86d2.png) -->
+![finance](https://stocks-and-finance.herokuapp.com/login)
 
 ## Introduction
 
